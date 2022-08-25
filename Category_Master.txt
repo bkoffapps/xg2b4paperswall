@@ -3,8 +3,10 @@
 "value":[
 {
 "name":"Minimal Black & Purple",
-"cover":"16QfQ5GbRalXoyQXkpLillWX2PL-kABuz",
-"page":"1DCb-xCCqtUzuWO1jEXhWLsYI2r96WsbW"
+"cover":"02",
+"rep":"xg2b4paperswall",
+"folder":"Minimal_Black_Purple",
+"count":"31"
 
 },
 {
