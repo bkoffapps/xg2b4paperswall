@@ -5,7 +5,8 @@
 "name":"Minimal Black & Purple",
 "cover":"02",
 "rep":"xg2b4paperswall",
-"folder":"Minimal_Black_Purple"
+"folder":"Minimal_Black_Purple",
+"count":31
 }
 ]
 
