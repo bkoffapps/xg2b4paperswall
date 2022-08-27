@@ -3,7 +3,7 @@
 "value":[
 {
 "name":"Minimal Black & Purple",
-"cover":"minimal_black_purple_02.png",
+"cover":"minimal_black_purple_02.jpg",
 "rep":"xg2b4paperswall",
 "folder":"Minimal_Black_Purple",
 "count":31
