@@ -5,31 +5,8 @@
 "name":"Minimal Black & Purple",
 "cover":"02",
 "rep":"xg2b4paperswall",
-"folder":"Minimal_Black_Purple",
-"count":"31"
-
-},
-{
-"name":"Minimal Black",
-"cover":"13ysNlLVVOPyzsjpsgQc9SRd_vkmoEzgw",
-"page":"1Qpnyo_JRrzl-Yj_hXjju9Y_wpoqKSeiC"
-},
-{
-"name":"Minions Funny",
-"cover":"12bHfKDBxpxXjkemB1oiRSLDCcSWxBVx0",
-"page":"12U_d6_0EBB35XyZNtatMaJB1E-FoSULs"
-},
-{
-"name":"Amoled Quotes",
-"cover":"17uEjCb4UTay-u5cklLaJ1zB-kqccfvFe",
-"page":"1z9DI9Xk3pKef8UDV5dsbhe5REFezMmi5"
-},
-{
-"name":"Amoled Neon",
-"cover":"19qVzaMWt6XAOWclw0nZDSy5oqTxmuXE8",
-"page":"1tzUoC1wCEHozsnFWKfjMtvkgc7aBYQXz"
+"folder":"Minimal_Black_Purple"
 }
-
 ]
 
 }
