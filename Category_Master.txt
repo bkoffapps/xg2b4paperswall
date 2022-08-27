@@ -6,7 +6,7 @@
 "cover":"minimal_black_purple_02.png",
 "rep":"xg2b4paperswall",
 "folder":"Minimal_Black_Purple",
-"count":"31"
+"count":31
 }
 ]
 
