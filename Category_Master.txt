@@ -2,6 +2,13 @@
 
 "value":[
 {
+"name":"Amoled Gradient",
+"cover":"amoled_gradient_24.jpg",
+"rep":"xg2b4paperswall",
+"folder":"Amoled_Gradient",
+"count":43
+},
+{
 "name":"Minimal Black & Purple",
 "cover":"minimal_black_purple_02.jpg",
 "rep":"xg2b4paperswall",
